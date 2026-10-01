@@ -1,0 +1,7 @@
+[gd_resource type="Theme" format=3 uid="uid://cskagwswhhry6"]
+
+[ext_resource type="FontFile" uid="uid://beqi3er67bytf" path="res://resources/fonts/oxanium/static/Oxanium-Regular.ttf" id="1_4gdfv"]
+
+[resource]
+default_font = ExtResource("1_4gdfv")
+default_font_size = 24

@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://ccrtkupqwmrsx"]
+
+[ext_resource type="Script" uid="uid://tfxv8m6sbjmt" path="res://scenes/overlay/Overlay.gd" id="1_4655l"]
+
+[node name="Overlay" type="Node2D" unique_id=1430389185]
+script = ExtResource("1_4655l")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1312287402]
+
+[node name="Timer" type="RichTextLabel" parent="CanvasLayer" unique_id=985566356]
+offset_right = 150.0
+offset_bottom = 87.0
+text = "00:00:0000"

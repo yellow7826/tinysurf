@@ -28,11 +28,11 @@ Follow these instructions before exporting your map:
 
 ```text
 tinysurf
-    /maps
-        /my-map
-            - MyMap.glb
-            - metadata.json
-            - screenshot.jpg
+	/maps
+		/my-map
+			- MyMap.glb
+			- metadata.json
+			- screenshot.jpg
 ```
 
 #### Metadata format (JSON)
